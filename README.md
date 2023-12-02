@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Morrie Virtual Home
 
@@ -71,3 +72,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 Enjoy exploring Morrie Virtual Home!
 
+=======
+# Morrie-Virtual-Home
+>>>>>>> 8991b34 (Initial commit)
