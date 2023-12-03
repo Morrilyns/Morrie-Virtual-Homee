@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+dependencies/
+bin/
+
+# Output files
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+
