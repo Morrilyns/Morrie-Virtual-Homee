@@ -1,0 +1,21 @@
+// .devcontainer/devcontainer.json
+{
+    "name": "Node.js",
+    "dockerFile": "Dockerfile",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "appPort": [3000],
+    "extensions": [
+      "dbaeumer.vscode-eslint"
+    ],
+    "postCreateCommand": "npm install"
+  }
+  
+  "extensions": [
+    "ms-vscode.vscode-node-azure-pack",
+    "dbaeumer.vscode-eslint",
+    "ms-azuretools.vscode-docker"
+  ]
+  
+  

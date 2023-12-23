@@ -20,7 +20,6 @@ Morrie Virtual Home is a web-based platform that offers visitors a 360-degree vi
 To get started with Morrie Virtual Home, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Morrilyns/Morrie-Virtual-Homee.git
-
 2. Navigate to the project directory: `cd morrie-virtual-home`
 3. Install dependencies: `npm install` or `yarn install`
 4. Run the application: `npm start` or `yarn start`
@@ -29,6 +28,7 @@ To get started with Morrie Virtual Home, follow these steps:
 
 - Node.js (version 14)
 - npm or yarn
+
 
 ## Usage
 
@@ -42,7 +42,6 @@ For assistance or inquiries, reach out to us via:
 
 - [Issue Tracker](https://github.com/Morrilyns/Morrie-Virtual-Homee/issues)
 - Email: smorrilyn@gmail.com
-
 
 ## Roadmap
 
