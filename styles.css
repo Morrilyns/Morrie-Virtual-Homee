@@ -1,0 +1,22 @@
+/* Styles for navigation */
+nav {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    padding: 1rem;
+  }
+  
+  nav a {
+    margin-right: 1rem;
+   
+    /* More styles to be added */
+  }
+  
+/* styles for CTA button */
+.cta-button {
+    background-color: #3498db; /* Use your brand color */
+    color: #fff;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    /* Add more styles as needed */
+  }
+  
